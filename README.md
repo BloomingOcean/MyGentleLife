@@ -27,4 +27,11 @@
  <img src="Images/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
 
+<br />
+
+[![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=MyGentleLife&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MyGentleLife)
+&nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MyGentleLife&layout=compact&theme=radical)
+
+<br /> 
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
