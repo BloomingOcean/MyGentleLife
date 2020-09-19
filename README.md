@@ -3,37 +3,28 @@
 <p><em>Javaweb Development Learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<!--
+**MyGentleLife/MyGentleLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Liyang from Chengdu/China.
+- 🔭 I’m currently learning Hadoop、Redis、Kafka、Dubbo、Netty.
+- 🌱 I’m currently learning Spring-Cloud、Zookeeper.
+- 👯 I will graduate in a year, I hope to find a good job.😄
+- 💬 Ask me about SSM, VUE, Distributed Technologies.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+
+<p align="center">
+ <img src="Images/html.svg" alt="html" style="vertical-align:top; margin:4px">
+ <img src="Images/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
+ <img src="Images/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="Images/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+ <img src="Images/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+ <img src="Images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+ <img src="Images/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="Images/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+ <img src="Images/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
